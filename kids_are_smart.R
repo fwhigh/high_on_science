@@ -1,3 +1,5 @@
+# http://highonscience.com/2013/02/13/kids-are-smart/
+
 ### Library
 library(limSolve)
 
