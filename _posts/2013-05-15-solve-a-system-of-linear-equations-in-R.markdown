@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Solve a system of linear equations in R
-date: "2013-05-15"
+date: "2013-05-15T11:13:29.000Z"
 categories: R
 
 ---
