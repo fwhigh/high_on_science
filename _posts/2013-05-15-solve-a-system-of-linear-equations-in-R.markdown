@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: Solve a system of linear equations in R
 date: "2013-05-15T11:13:29.000Z"
