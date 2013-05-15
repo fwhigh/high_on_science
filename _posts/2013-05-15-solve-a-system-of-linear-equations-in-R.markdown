@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Solve a system of linear equations in R
 
 ---
 
