@@ -6,4 +6,4 @@ layout: default
 
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Allegedly, the following puzzle is easily solved by young children in a matter of minutes, meanwhile reducing the average highly educated adult to shame and tears.
