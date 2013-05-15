@@ -9,27 +9,27 @@ categories: R
 
 Allegedly, the following puzzle is easily solved by young children in a matter of minutes, meanwhile reducing the average highly educated adult to shame and tears.
 
-8809 = 6
-7111 = 0
-2172 = 0
-6666 = 4
-1111 = 0
-3213 = 0
-7662 = 2
-9313 = 1
-0000 = 4
-2222 = 0
-3333 = 0
-5555 = 0
-8193 = 3
-8096 = 5
-7777 = 0
-9999 = 4
-7756 = 1
-6855 = 3
-9881 = 5
-5531 = 0
-2581 = ?
+> 8809 = 6
+> 7111 = 0
+> 2172 = 0
+> 6666 = 4
+> 1111 = 0
+> 3213 = 0
+> 7662 = 2
+> 9313 = 1
+> 0000 = 4
+> 2222 = 0
+> 3333 = 0
+> 5555 = 0
+> 8193 = 3
+> 8096 = 5
+> 7777 = 0
+> 9999 = 4
+> 7756 = 1
+> 6855 = 3
+> 9881 = 5
+> 5531 = 0
+> 2581 = ?
 
 
 {% highlight r %}
