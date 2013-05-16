@@ -31,6 +31,9 @@ Allegedly, the following puzzle is easily solved by young children in a matter o
 > 5531 = 0  
 > 2581 = ?
 
+I'm sure you're super smart and you solved it.  But that is beside the point.  This puzzle can be thought of as a system linear equation equations, and I'll use it to show how to solve such a system in R.
+
+
 
 {% highlight r %}
 ### Library
