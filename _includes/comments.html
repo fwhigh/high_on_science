@@ -9,7 +9,6 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<p>{{ site.url }}{{ site.baseurl }}{{ page.url }}</p>
-<div class="fb-comments" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-width="470" data-num-posts="10"></div>
+<div class="fb-comments" href="{{ site.host }}{{ site.baseurl }}{{ page.url }}" data-width="470" data-num-posts="10"></div>
 
 {% endif %}

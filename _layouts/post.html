@@ -12,7 +12,10 @@ type: post
 
     {{ content }}
 
-    <p>another {{ site.url }}{{ site.baseurl }}{{ page.url }}</p>
+
+    <p>{{ site.host }}</p>
+    <p>{{ page.url }}</p>
+    <p>{{ site.url }}{{ site.baseurl }}{{ page.url }}</p>
 
     {% include comments.html %}
 
