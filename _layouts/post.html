@@ -6,17 +6,16 @@ type: post
 <div class="row">
 
   <div id="post" class="span8">
+
     <h2>{{ page.title }}</h2>
+
+    {% include like_button.html %}
+
     <p class="meta">{{ page.date | date_to_string }}, 
       categories: {% for cat in page.categories %} {{ cat }} {% endfor %}</p>
 
     {{ content }}
 
-
-    <p>{{ site.host }}</p>
-    <p>{{ site.url }}</p>
-    <p>{{ page.url }}</p>
-    <p>{{ site.url }}{{ site.baseurl }}{{ page.url }}</p>
 
     {% include comments.html %}
 
