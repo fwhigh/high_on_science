@@ -10,12 +10,12 @@ type: post
     <h2>{{ page.title }}</h2>
 
     {% include like_button.html %}
+    {% include tweet_button.html %}
 
-    <p class="meta">{{ page.date | date_to_string }}, 
-      categories: {% for cat in page.categories %} {{ cat }} {% endfor %}</p>
+    <p class="meta"><i>{{ page.date | date_to_string }}, 
+      categories: {% for cat in page.categories %} {{ cat }} {% endfor %}</i></p>
 
     {{ content }}
-
 
     {% include comments.html %}
 
