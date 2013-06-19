@@ -31,14 +31,14 @@ Allegedly, the following puzzle is easily solved by young children in a matter o
 > 5531 = 0  
 > 2581 = ?
 
-I'm sure you're super smart and you solved it, but I don't care because that's not the point of this post.  This puzzle can be thought of as a system linear equation equations, and I'll use it to demonstrate solving such a system in R.
+I'm sure you're super smart and you solved it, but I don't care because your brilliance is not the point of this post.  This puzzle can be thought of as a system linear equation equations, and I'll use it to demonstrate solving such a system in R.
 
 Casting the puzzle as a linear algebra problem
 ----------------------------------------------
 
 The puzzle can be cast as a system of linear equations if you think of each digit on the left hand side as an unknown variable.
 
-![Alt text](/images/tex2img_1360772058.jpg "Optional title")
+![Alt text]({{ site.baseurl }}/images/tex2img_1360772058.jpg "Optional title")
 
 This effectively says, the puzzle involves counting something about the digits and adding them up to get the values on the right hand side.  
 
