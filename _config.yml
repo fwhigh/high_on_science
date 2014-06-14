@@ -1,5 +1,0 @@
-name: High on science
-pygments: true
-permalink: /:year/:month/:day/:title
-lsi: true
-baseurl: /highonscience
