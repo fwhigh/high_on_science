@@ -13,3 +13,8 @@ gh-pages/
 site/_site/
 coverage
 .ruby-version
+.Rproj.user
+
+*.png
+
+*.html
